@@ -1,0 +1,85 @@
+.primeira-secao{
+    margin:0 auto;
+    text-align:center;
+    background-color:rgba(135, 201, 255, 0.808);
+}
+.logo-destaque{
+    width:250px;
+}
+.primeira-secao a{
+    margin:5px;
+    color:rgb(0, 0, 97);
+    text-decoration:none;
+    font-size:20px;
+}
+.segunda-secao, img{
+    margin:0 auto;
+    width:850px;
+}
+.terceira-secao{
+    margin:0 auto;
+    text-align:center;
+}
+h2{
+    color:rgb(0,0,97);
+}
+.terceira-secao img{
+    width:350px;
+}
+p{
+    font-size:16px;
+    font-family:verdana;
+}
+span{
+    font-weight:bold;
+    color:rgb(0, 0, 97);
+}
+.quarta-secao{
+    height:300px;
+    margin:0 auto;
+    text-align:center;
+    background-color:rgba(0, 45, 192, 0.808);
+    color:white;
+}
+.quarta-secao ul{
+    width:100px;
+    text-align:center;
+    margin:10px auto;
+    line-height:30px;
+    font-size:20px;
+    color:white;
+}
+.quarta-secao .texto-destaque{
+    color:yellow;
+}
+.quinta-secao{
+    margin:0 auto;
+    text-align:center;
+}
+.quinta-secao img{
+    width:350px;
+}
+.sexta-secao{
+    margin:20px auto;
+    text-align:center;
+    background-color:rgba(135, 201, 255, 0.808);
+    height:450px;
+}
+.sexta-secao .paragrafo-destaque{
+    border: 3px solid black;
+    padding:5px;
+    color:white;
+    background-color:black;
+}
+.sexta-secao .texto-destaque{
+    color:yellow;
+}
+.sexta-secao a{
+    border:2px solid white;
+    border-radius:10px;
+    padding:5px;
+    text-align:center;
+    background-color:white;
+    color:blue;
+}
+
